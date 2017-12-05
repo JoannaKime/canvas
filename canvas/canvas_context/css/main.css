@@ -1,0 +1,9 @@
+html, body {
+  background-color: teal; 
+}
+
+canvas {
+  display:block;
+  border: 1px solid gray;
+  margin: 2px;
+}
